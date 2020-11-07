@@ -18,7 +18,7 @@ var Deck = /** @class */ (function () {
                 color: Color.Black,
             },
             {
-                value: "♥️",
+                value: "♥",
                 color: Color.Red,
             },
             {
